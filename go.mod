@@ -1,3 +1,5 @@
-module github.com/YOUR-USER-OR-ORG-NAME/YOUR-REPO-NAME
+module applicationDesignTest
 
-go 1.19
+go 1.22
+
+require github.com/go-chi/chi/v5 v5.0.12
